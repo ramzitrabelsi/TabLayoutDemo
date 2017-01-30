@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TabLayoutDemo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello Home fragment</string>
+    <string name="hello_tow_fragment">Hello TopFree fragment</string>
+    <string name="hello_three_fragment">Hello TopPaid fragment</string>
+
+
+</resources>
